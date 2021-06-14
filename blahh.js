@@ -1,3 +1,3 @@
 function dontdie() {
-window.location.href = "https://github.com/";
+window.location.href = "https://gitbhub.com/";
 }
